@@ -7,6 +7,6 @@
 - 🔭 I’m currently working with embedded systems
 - 🌱 I’m currently learning about microcontrollers and machine learning
 - 👯 I’m looking to collaborate on any projects
-- 💬 Ask me about anything!
+- 💬 Ask me about anything especially machine learning on edge devices!
 - ⚡ Fun fact: I find assembly easier to read than python sometimes
 
